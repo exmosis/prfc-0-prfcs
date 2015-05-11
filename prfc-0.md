@@ -4,9 +4,9 @@ A personal RFC is a "quick spec" for a particular project, effort, process, etc.
 
 **Meta**
 
-Authors: @6loss [1]
-Version: Draft v0.1.0
-URL: TBA
+Authors: @[6loss][1]<br>
+Version: Draft v0.1.0<br>
+URL: TBA<br>
 
 **Background**
 
@@ -14,7 +14,7 @@ I have lots of ideas for projects, but it's easy to have a quick idea, start on 
 
 In other work, I have found it very helpful to adopt a lightly structured approach to help start out with a base 'template' to jot ideas down. This PRFC is a meta-PRFC to define how these 'templates for ideas' can be most helpful.
 
-You are free to use and adapt this PRFC under the terms of a Creative Commons BY-SA 4.0 license. [2]
+You are free to use and adapt this PRFC under the terms of a [Creative Commons BY-SA 4.0 license][2].
 
 **Aims**
 
